@@ -1,6 +1,6 @@
 # Kennyfan382 (Aidan Hammond)
 
-I like coding side projects, and watching south park.
+I like coding, cyber security and watching south park.
 
 Studying computer science at Aberystwyth University
 
