@@ -4,4 +4,4 @@ I like coding, cyber security and watching south park.
 
 Studying computer science at Aberystwyth University
 
-Languages: HTML\CSS, Python, Shellscripting, Java, C
+Languages: HTML\CSS, Javascript, Python, Shellscripting, Java, C
